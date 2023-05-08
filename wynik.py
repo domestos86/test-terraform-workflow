@@ -2,4 +2,4 @@ def hi():
     print('Hi :)')
 
 
-hello()
+hi()
