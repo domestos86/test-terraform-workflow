@@ -1,3 +1,3 @@
 variable "python_function" {
-  default = "def hello_world():\n    print('Witaj, świecie!')\nhello_world()"
+  default = "def hi_visitor():\n    print('Witaj, Gościu!')\nhi_visitor()"
 }
